@@ -5,5 +5,5 @@ name = "Veez"
 puts name.length  # Output: 4
 puts name.size    # Output: 4
 
-puts "   .halo2$".size  # Output: 7 (includes spaces and special characters)
+puts "   .halo2$".size  # Output: 10 (includes spaces and special characters)
 puts "".length       # Output: 0 (empty string has length 0)
